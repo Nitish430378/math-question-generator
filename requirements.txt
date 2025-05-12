@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+llama-cpp-python
+streamlit
+huggingface-hub
+
